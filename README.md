@@ -8,3 +8,4 @@
 - 📫 How to reach me: @chetanguptamrt (linkedin, instagram, twitter)
 - :speech_balloon: Ask me about My Projects 
 
+![twitter](https://img.shields.io/twitter/follow/chetanguptamrt?style=social) ![github](https://img.shields.io/github/followers/chetanguptamrt?style=social)
