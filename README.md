@@ -5,8 +5,8 @@
 - <a href="https://www.linkedin.com/in/chetanguptamrt" target="_blank" >Linkedin</a>
 - <a href="https://www.instagram.com/chetanguptamrt" target="_blank" >Instagram</a>
 - <a href="https://twitter.com/chetanguptamrt" target="_blank" >Twitter</a>
-- 🔭 I’m student
-- 🌱 I’m currently learning spring framework (java)
+- 🔭 Full stack development
+- 🌱 Currently working on MERN
 - 📫 How to reach me: @chetanguptamrt (linkedin, instagram, twitter)
 - :speech_balloon: Ask me about My Projects 
 
